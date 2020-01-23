@@ -9,7 +9,7 @@ public class LoginTest {
 	}
 	
 	@Test
-	public void submit()
+	public void submit1()
 	{
 		
 	}
